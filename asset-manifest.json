@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.d83f9f30.chunk.js": "/pancakeswap/static/js/0.d83f9f30.chunk.js",
     "static/js/0.d83f9f30.chunk.js.map": "/pancakeswap/static/js/0.d83f9f30.chunk.js.map",
-    "main.js": "/pancakeswap/static/js/main.a158fed0.chunk.js",
-    "main.js.map": "/pancakeswap/static/js/main.a158fed0.chunk.js.map",
+    "main.js": "/pancakeswap/static/js/main.63c9ede9.chunk.js",
+    "main.js.map": "/pancakeswap/static/js/main.63c9ede9.chunk.js.map",
     "runtime-main.js": "/pancakeswap/static/js/runtime-main.3640871a.js",
     "runtime-main.js.map": "/pancakeswap/static/js/runtime-main.3640871a.js.map",
     "static/css/3.3fd057df.chunk.css": "/pancakeswap/static/css/3.3fd057df.chunk.css",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.3640871a.js",
     "static/css/3.3fd057df.chunk.css",
     "static/js/3.4d27da94.chunk.js",
-    "static/js/main.a158fed0.chunk.js"
+    "static/js/main.63c9ede9.chunk.js"
   ]
 }
